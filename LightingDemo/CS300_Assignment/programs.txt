@@ -1,0 +1,4 @@
+0Phong
+0 0
+1Blinn
+0 1

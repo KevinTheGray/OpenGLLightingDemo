@@ -41,3 +41,19 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Visual studio files
+*.ncb
+*.exe
+*.user
+*.manifest
+*.pdb
+*.htm
+*.dep
+*.idb
+*.suo
+LightingDemo/CS300_Assignment/CS300_Assignment/Debug
+LightingDemo/CS300_Assignment/CS300_Assignment/Release
+LightingDemo/CS300_Assignment/Debug
+LightingDemo/CS300_Assignment/Release
+
